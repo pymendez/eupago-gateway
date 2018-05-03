@@ -1,1 +1,1 @@
-# eupago-gateway
+# payment-gateway
